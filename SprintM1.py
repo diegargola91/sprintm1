@@ -1,5 +1,3 @@
-import pandas as pd
-
 # Clases
 
 #La clase Producto representa cada producto con sus parámetros. Contiene funciones para obtener la información del producto y otra para modificar la información.
